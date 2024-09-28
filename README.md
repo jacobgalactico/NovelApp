@@ -42,6 +42,9 @@ Sinopsis
 6. App
 Ubicación: com.example.novelapp.App
 
+
+https://github.com/jacobgalactico/NovelApp.git
+
 Esta clase gestiona la navegación entre las diferentes pantallas:
 
 Lista de novelas
